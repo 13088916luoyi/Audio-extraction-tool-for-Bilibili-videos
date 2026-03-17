@@ -77,7 +77,3 @@ pip install -r requirements.txt
    - https://www.bilibili.com/video/BVxxxxxx/?spm_id_from=...
    - 以及其他包含BV号的URL
 3. yt-dlp 会自动处理音频格式转换，无需额外配置
-
-## 许可证
-
-MIT License
