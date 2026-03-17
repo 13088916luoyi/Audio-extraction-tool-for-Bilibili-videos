@@ -1,0 +1,10 @@
+# B站音频下载器依赖
+
+# yt-dlp - 视频/音频下载工具
+yt-dlp>=2023.11.16
+
+# imageio-ffmpeg - 预编译的ffmpeg二进制文件
+imageio-ffmpeg>=0.4.9
+
+# Pillow - 图像处理库（用于背景图片）
+Pillow>=9.0.0
